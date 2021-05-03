@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "loginfire-ef911": {
+      "hosting": {
+        "app": [
+          "loginfire-ef911"
+        ]
+      }
+    }
+  }
+}
